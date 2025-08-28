@@ -1,0 +1,12 @@
+[ ] README 초안 작성
+[ ] TaskStore 인터페이스 정의
+[ ] FileTaskStore 파일 입출력 구현
+[ ] BaseTodo 공통 로직 완성(list/add/done/delete)
+[ ] AutoSaveTodo onChanged()에서 즉시 저장
+[ ] InMemoryTaskStore로 단위 테스트
+[ ] 예외/경계값 처리(잘못된 번호)
+[ ] CLI 도움말/사용법 정리
+[ ] 컴파일/실행 스크립트 만들기
+[ ] 코드 포맷/Checkstyle 정리
+[ ] 브랜치 전략 문서화
+[ ] PR 올리고 리뷰하기
