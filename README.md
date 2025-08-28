@@ -8,6 +8,7 @@
 
 
 --- ex ---
+
 [ ] README 초안 작성
 [ ] TaskStore 인터페이스 정의
 [X] FileTaskStore 파일 입출력 구현 ---> 수행 완료
